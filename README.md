@@ -1,4 +1,4 @@
-## Практика №3
+## Практика №1
 ## Сетевая связанность обеспечена, установил и настроил rsyslog
 ![image](https://github.com/kiberbull/TOIB/assets/65900037/8c90e248-b699-465c-90ee-5fc6d038816c)
 ![image](https://github.com/kiberbull/TOIB/assets/65900037/8a2e9721-d64f-4961-9ee5-fc21075fe257)
