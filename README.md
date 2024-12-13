@@ -9,4 +9,6 @@
 
 [Практическая работа №4](https://github.com/kiberbull/AZSII/tree/main/ПРЗ_4)
 
+[Практическая работа №5](https://github.com/kiberbull/AZSII/tree/main/ПРЗ_5)
+
 [Лабораторная работа №1](https://drive.google.com/file/d/1i_z0Z0iGsY9zcY-BF4L9I4OlxQG1KBMb/view?usp=sharing)
