@@ -13,4 +13,4 @@
 
 [Практическая работа №6 Лабораторная работа №4](https://github.com/kiberbull/AZSII/tree/main/ПРЗ_6_ЛАБ_4)
 
-[Лабораторная работа №1](https://drive.google.com/file/d/1i_z0Z0iGsY9zcY-BF4L9I4OlxQG1KBMb/view?usp=sharing)
+[Лабораторная работа №1](https://github.com/kiberbull/AZSII/tree/main/Лаб_1)
